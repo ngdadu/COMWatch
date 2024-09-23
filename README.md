@@ -1,2 +1,2 @@
 # COMWatch
-monitors serial ports and write received ddata to log files
+monitors serial ports and write received data to log files
